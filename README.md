@@ -1,1 +1,1 @@
-# sitefinity-utils
+# Sitefinity Utils
